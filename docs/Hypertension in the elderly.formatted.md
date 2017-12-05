@@ -1,4 +1,4 @@
-#Hypertension in the elderly
+# Hypertension in the elderly
 
 “At old age, mild hypertension may increase cognitive performance” [<a id="a1">[1](#f1)</a>]
 
